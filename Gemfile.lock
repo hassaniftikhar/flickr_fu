@@ -1,3 +1,10 @@
+GIT
+  remote: git@github.com:hassaniftikhar/xml_magic.git
+  revision: 4ceed3331cfc16c2e8a4bc848c5bbb6758635a27
+  branch: omit_slots
+  specs:
+    xml-magic (0.1.1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -20,7 +27,6 @@ GEM
     rspec-expectations (2.8.0)
       diff-lcs (~> 1.1.2)
     rspec-mocks (2.8.0)
-    xml-magic (0.1.1)
 
 PLATFORMS
   ruby
@@ -31,4 +37,4 @@ DEPENDENCIES
   mime-types
   rdoc
   rspec
-  xml-magic
+  xml-magic!

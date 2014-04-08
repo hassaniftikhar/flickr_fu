@@ -15,6 +15,6 @@ group :development do
 end
 
 gem "mime-types"
-gem "xml-magic"
+gem "xml-magic", :git => 'git@github.com:hassaniftikhar/xml_magic.git', :branch => 'omit_slots'
 
 #gemspec
